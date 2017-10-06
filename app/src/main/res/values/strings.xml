@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cadastro Usuario Unico Fatec Ipi Tarde</string>
+    <string name="action_settings">Settings</string>
+    <string name="rotulo_nome">Nome:</string>
+    <string name="rotulo_fone">Fone:</string>
+    <string name="rotulo_email">Email:</string>
+</resources>

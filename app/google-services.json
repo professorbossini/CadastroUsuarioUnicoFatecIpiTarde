@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "468592575657",
+    "firebase_url": "https://usuariounicofatecipita.firebaseio.com",
+    "project_id": "usuariounicofatecipita",
+    "storage_bucket": "usuariounicofatecipita.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468592575657:android:5417e98f04ffa51a",
+        "android_client_info": {
+          "package_name": "br.com.bossini.cadastrousuariounicofatecipitarde"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468592575657-l5hdsggd2iq3lij4la9nsih7t0hquoes.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.bossini.cadastrousuariounicofatecipitarde",
+            "certificate_hash": "131f01e241308e568f2975de37cc5ffca26684c6"
+          }
+        },
+        {
+          "client_id": "468592575657-7uhqubica9339j4li3r3jnkpghhhekbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASuFHEVmkMcSqB2ili-zLgrTs13zrmm0Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468592575657-7uhqubica9339j4li3r3jnkpghhhekbh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
