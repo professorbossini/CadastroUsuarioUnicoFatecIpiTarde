@@ -73,6 +73,15 @@
         android:elevation="@dimen/elevation_textview"
         android:gravity="center"/>
 
+    <ImageView
+        android:layout_columnSpan="2"
+        android:layout_column="0"
+        android:layout_row="3"
+        android:id="@+id/fotoImageView"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        app:srcCompat="@mipmap/ic_launcher"
+        android:layout_gravity="center"/>
 
 
 </GridLayout>

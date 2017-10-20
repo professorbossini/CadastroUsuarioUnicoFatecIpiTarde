@@ -4,4 +4,12 @@
     <string name="rotulo_nome">Nome:</string>
     <string name="rotulo_fone">Fone:</string>
     <string name="rotulo_email">Email:</string>
+    <string name="title_activity_editar_usuario">EditarUsuarioActivity</string>
+    <string name="dica_nome">Digite seu nome</string>
+    <string name="dica_fone">Digite seu telefone</string>
+    <string name="dica_email">Digite seu email</string>
+    <string name="dados_atualizados">Ok, dados atualizados</string>
+    <string name="upload_ok">Ok, foto subiu</string>
+    <string name="download_falhou">Download da foto falou</string>
+    <string name="download_ok">Download ok</string>
 </resources>
